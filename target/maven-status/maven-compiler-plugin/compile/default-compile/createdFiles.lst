@@ -1,0 +1,17 @@
+com/remcokortekaas/app/Client.class
+com/remcokortekaas/app/node_managers/MembersManager.class
+com/remcokortekaas/app/MainBank.class
+com/remcokortekaas/app/Bank$1.class
+com/remcokortekaas/app/node_managers/ElectionManager.class
+com/remcokortekaas/app/ClientDB.class
+com/remcokortekaas/app/OperationEnum.class
+com/remcokortekaas/app/SendMessages.class
+com/remcokortekaas/app/OperationBank.class
+com/remcokortekaas/app/SendMessagesBank.class
+com/remcokortekaas/app/watchers/ElectionWatcher.class
+com/remcokortekaas/app/Bank.class
+com/remcokortekaas/app/watchers/NewNodeWatcher.class
+com/remcokortekaas/app/utils/NodeUtils.class
+com/remcokortekaas/app/watchers/NodeDownWatcher.class
+com/remcokortekaas/app/node_managers/OperationsManager.class
+com/remcokortekaas/app/watchers/OperationsWatcher.class

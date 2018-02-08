@@ -1,0 +1,16 @@
+/Users/remcokortekaas/dev/bank/src/main/java/com/remcokortekaas/app/node_managers/OperationsManager.java
+/Users/remcokortekaas/dev/bank/src/main/java/com/remcokortekaas/app/SendMessages.java
+/Users/remcokortekaas/dev/bank/src/main/java/com/remcokortekaas/app/MainBank.java
+/Users/remcokortekaas/dev/bank/src/main/java/com/remcokortekaas/app/OperationBank.java
+/Users/remcokortekaas/dev/bank/src/main/java/com/remcokortekaas/app/watchers/NodeDownWatcher.java
+/Users/remcokortekaas/dev/bank/src/main/java/com/remcokortekaas/app/Bank.java
+/Users/remcokortekaas/dev/bank/src/main/java/com/remcokortekaas/app/utils/NodeUtils.java
+/Users/remcokortekaas/dev/bank/src/main/java/com/remcokortekaas/app/SendMessagesBank.java
+/Users/remcokortekaas/dev/bank/src/main/java/com/remcokortekaas/app/Client.java
+/Users/remcokortekaas/dev/bank/src/main/java/com/remcokortekaas/app/OperationEnum.java
+/Users/remcokortekaas/dev/bank/src/main/java/com/remcokortekaas/app/watchers/OperationsWatcher.java
+/Users/remcokortekaas/dev/bank/src/main/java/com/remcokortekaas/app/watchers/ElectionWatcher.java
+/Users/remcokortekaas/dev/bank/src/main/java/com/remcokortekaas/app/node_managers/MembersManager.java
+/Users/remcokortekaas/dev/bank/src/main/java/com/remcokortekaas/app/node_managers/ElectionManager.java
+/Users/remcokortekaas/dev/bank/src/main/java/com/remcokortekaas/app/ClientDB.java
+/Users/remcokortekaas/dev/bank/src/main/java/com/remcokortekaas/app/watchers/NewNodeWatcher.java
