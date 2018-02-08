@@ -12,13 +12,13 @@ public class NodeDownWatcher implements Watcher {
 
             System.out.println("Node is down ---> " + event.getPath());
 
-            try {
-                new MainBank();
-            } catch (KeeperException e) {
-                e.printStackTrace();
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
+//            try {
+//                new MainBank();
+//            } catch (KeeperException e) {
+//                e.printStackTrace();
+//            } catch (InterruptedException e) {
+//                e.printStackTrace();
+//            }
 
 //            Runtime rt = Runtime.getRuntime();
 //            String[] commands = {"java", "com.remcokortekaas.app.Main"};
