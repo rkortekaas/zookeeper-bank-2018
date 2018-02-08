@@ -2,8 +2,8 @@
 Distributed application using Zookeeper
 
 ## Objectives
-- Managements	the	informa5on	of	the	clients	in	a	bank
-- Application	should	fault	tolerance	and	consistency
+- Manages the information of clients in a bank
+- Application should ensure consistency and fault tolerance
 
 The aim of this assignment is to develop an application for managing the clients of a bank. A distributed application is developed, in order to provide properties, such as consistency, fault tolerance, replication, and availability. The functionality for the management of clients should be simple for concentrating on these distributed properties.
 
@@ -31,7 +31,7 @@ The algorithm used for choosing the leader amongst all the application servers i
 
 ## Membership (fault detection)
 
-The Members node is used to enforce Fault Detection. Everytime an application server joins the cluster, an EPHEMERAL_SEQUENTIAL (3) node is created under the members node (/members). The watch that is set on the members node will be triggered when a node goes down (either crashed, or gets stopped). The watcher process is responsible for starting a new application server, thus ensuring fault detection and automatic recovery.
+The Members node is used to enforce Fault Detection. Everytime an application server joins the cluster, an EPHEMERAL_SEQUENTIAL (3) node is created under the members node (/members). The watch that is set on the members node will be triggered when a node goes down (either crashed, or gets stopped). The watcher process is responsible for starting a new application server, ensuring fault detection and automatic recovery.
 
 ## Consistency
 
